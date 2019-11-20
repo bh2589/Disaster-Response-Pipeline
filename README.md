@@ -1,4 +1,4 @@
-# Disaster-Response-
+# Disaster Response Pipeline Project
 ### Project Objectives:
 The goal of this project is to analyze message data that people sent during disasters to build a model for an API that classifies disaster messages. These messages could potentially be sent to appropriate disaster relief agencies.
 
