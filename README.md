@@ -26,3 +26,4 @@ The goal of this project is to analyze message data that people sent during disa
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+![web app](web_app_screenshot.png)
